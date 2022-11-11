@@ -1,0 +1,17 @@
+.background {
+  background-color: #222831 !important;
+}
+
+.title {
+  color: #eeeeee;
+}
+
+.form {
+  width: 500px;
+}
+
+@media (max-width: 991.98px) {
+  .hero-login {
+    display: none;
+  }
+}
