@@ -1,0 +1,9 @@
+.btn-primary {
+  background-color: #00adb5;
+  border: #00adb5;
+}
+
+.btn-outline-primary {
+  border: 1px solid#00adb5;
+  color: #00adb5;
+}
